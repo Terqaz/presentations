@@ -495,17 +495,14 @@ paginate: true
     h1 {
         font-size: 1rem;
     }
+    img {
+        height: 11rem;
+    }
 </style>
 
 # Пример: дверь как автомат
 
-<iframe
-        loading="lazy"
-        src="https://stately.ai/registry/editor/embed/7bd17f6e-ca1d-4c8d-8328-a873d67768b7?machineId=9d08b8f6-a74a-440d-8288-4b6af7fcca2f&mode=Design&colorMode=dark"
-        style="display: block; width: 100%; height: 100%">
-    <a
-       href="https://stately.ai/registry/editor/embed/7bd17f6e-ca1d-4c8d-8328-a873d67768b7?machineId=9d08b8f6-a74a-440d-8288-4b6af7fcca2f&mode=Design"></a>
-</iframe>
+![](assets/firefox_7b5enEaevi.png)
 
 <!-- - тут можно обойтись без состояния "без замка" и раскрыть его, но так мы явно указываем, что закрытая и открытая дверь будет именно "без замка"
 - детерминированный
@@ -533,21 +530,20 @@ paginate: true
 
 ---
 
+<!-- _class: title-with-image -->
+
 <style scoped>
     h1 {
         font-size: 1rem;
+    }
+    img {
+        height: 13rem;
     }
 </style>
 
 # Пример: переменная как автомат
 
-<iframe
-        loading="lazy"
-        src="https://stately.ai/registry/editor/embed/7bd17f6e-ca1d-4c8d-8328-a873d67768b7?mode=design&machineId=7a179269-2c32-49ff-a645-474b7f808a59&mode=Design&colorMode=dark"
-        style="display: block; width: 100%; height: 100%">
-    <a
-       href="https://stately.ai/registry/editor/embed/7bd17f6e-ca1d-4c8d-8328-a873d67768b7?mode=design&machineId=7a179269-2c32-49ff-a645-474b7f808a59"></a>
-</iframe>
+![](assets/firefox_jmBIy3xpku.png)
 
 <!-- даже работу с ней можно описать как state machine
 
@@ -590,17 +586,14 @@ paginate: true
     h1 {
         font-size: 1rem;
     }
+    img {
+        height: 12rem;
+    }
 </style>
 
 # Пример: автомат как автомат
 
-<iframe
-        loading="lazy"
-        src="https://stately.ai/registry/editor/embed/7bd17f6e-ca1d-4c8d-8328-a873d67768b7?machineId=128418f7-e89d-402f-8ccb-ef23a51377e4&mode=design&colorMode=dark"
-        style="display: block; width: 100%; height: 100%">
-    <a
-       href="https://stately.ai/registry/editor/embed/7bd17f6e-ca1d-4c8d-8328-a873d67768b7?machineId=128418f7-e89d-402f-8ccb-ef23a51377e4&mode=design"></a>
-</iframe>
+![](assets/firefox_CqchKaPGZp.png)
 
 ---
 
